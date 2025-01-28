@@ -15,7 +15,21 @@ This is a Quarto website.
 
 ![This is Me](images/FB20.png)
 
----
 About Me
+
+My name is Gerardo Gonzalez, but I usually go by Jerry. I was born in San Diego, but lived in Dallas, Chicago, San Deigo, Los Angeles, and now I'm here in Hawaii. I am currently a first year master's student studying corn genetics in Dr. Michael Muszynski's lab. I always loved being outdoors, working with my hands, and when I was younger I wanted to be a farmer. I was also super interested in science as when I visited my mom's lab during bring your kid to work day, my passion for the sciences exponentially grew. Now I have put the two together and am doing corn and agriculture research and I'm very happy where I'm at.
+
+Here a few fun facts about myself
+
+1. My family owns a ranch in Texas
+2. At one point I had 7 guinea pigs because our female got pregnanat and had babies
+3. I've been playing guitar since I was 8 years old
+4. I am part filipino, part mexican, and a little chinese 
+5. I was born in 2001, so this year is my year...of the snake 🐍
+
+Let's have a great 2025!
+
+
+Here is a link to somehting I think is really interesting...click here to find out! https://www.irri.org/about-us
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
