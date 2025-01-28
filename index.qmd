@@ -1,0 +1,21 @@
+---
+title: "Gerardo's website"
+image: images/Capture38.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mbutler808
+    - icon: github
+      text: Github
+      href: https://github.com/mbutler808
+---
+This is a Quarto website.
+
+![This is Me](images/FB20.png)
+
+---
+About Me
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
